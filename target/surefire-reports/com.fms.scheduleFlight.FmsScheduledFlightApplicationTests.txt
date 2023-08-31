@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.fms.scheduleFlight.FmsScheduledFlightApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.572 s - in com.fms.scheduleFlight.FmsScheduledFlightApplicationTests

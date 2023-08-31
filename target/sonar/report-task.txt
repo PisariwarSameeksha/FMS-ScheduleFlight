@@ -1,0 +1,6 @@
+projectKey=SCHEDULEDFLIGHT-SERVICE
+serverUrl=http://localhost:9000
+serverVersion=10.1.0.73491
+dashboardUrl=http://localhost:9000/dashboard?id=SCHEDULEDFLIGHT-SERVICE
+ceTaskId=AYpAYTOH2LWXS76XzPWH
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYpAYTOH2LWXS76XzPWH
